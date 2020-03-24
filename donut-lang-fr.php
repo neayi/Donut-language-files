@@ -23,7 +23,7 @@
         'page_not_found_default_text' => 'Oups... Page non trouvée',
         'admin_notes'                 => 'Consultez la section `Admin / Thème Donut` pour personnaliser le thème. Dans cette section, vous ne pouvez que rétablir les paramètres par défaut du thème :',
         'ask_placeholder'             => 'Saisissez votre question',
-        'ask_button'                  => 'Demandez !',
+        'ask_button'                  => 'Ok !',
         'no_tags_message'             => 'Il n\'y a pas de tags sur votre site web. Les tags apparaîtront ici dès qu\'ils seront disponibles.',
     );
 
